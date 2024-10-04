@@ -1,0 +1,36 @@
+# # Streamlit app
+# streamlit
+# pandas
+# jinja2~=3.0
+# # Tree manipulations
+# selectolax
+# # Clip stuff
+# transformers
+scipy
+plotly
+kaleido
+# torch>=2.0  # for flash attention support
+# Filtering
+emoji==1.6.1
+fasttext
+sentencepiece
+# https://github.com/kpu/kenlm/archive/master.zip
+# # Tests
+# humanfriendly
+# # Downloading images
+# img2dataset
+# Multiprocessing
+pathos
+# Configs
+PyYAML
+# HTML extraction
+boto3
+bs4
+warcio
+# Additional
+fire
+fastwarc
+faust-cchardet
+python-magic
+# https://github.com/opendatalab/magic-html/releases/download/magic_html-0.1.2-released/magic_html-0.1.2-py3-none-any.whl
+datatrove[io,processing]==0.2.0
